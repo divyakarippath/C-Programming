@@ -1,0 +1,61 @@
+1. Which amongst the two is connection-oriented
+a. TCP
+b. UDP
+
+2.______ is a program providing services to the ______ program.
+a.server; client
+b.client; server
+c.server; server
+d.None of the choices are correct
+
+3._______ server can process only one request at a time.
+a.An iterative
+b.A concurrent
+c.A concurrent or an iterative
+d.None of the choices are correct
+
+
+4.Information in a computer is stored in __________ byte order.
+a.network
+b.host
+c.server
+d.None of the choices are correct
+
+5.SOCK_STREAM sockets are used by ______ processes.
+a.UDP
+b.TCP
+c.SCTP
+d.None of the choices are correct
+
+6.SOCK_DGRAM sockets are used by ______ processes.
+a.UDP
+b.TCP
+c.SCTP
+d.None of the choices are correct
+
+7.SOCK_SEQPACKET sockets are used by ______ processes.
+a.UDP
+b.TCP
+c.SCTP
+d.None of the choices are correct
+
+8.SOCK_RAW sockets are used by ______ processes.
+a.UDP
+b.TCP
+c.SCTP
+d.None of the choices are correct
+
+9.In __________ representation, the most significant byte is stored in the starting address.
+a.big-endian
+b.little-endian
+c.middle-endian
+d.None of the choices are correct
+
+10.In __________ representation, the least significant byte is stored in the starting address.
+a.big-endian
+b.little-endian
+c.middle-endian
+d.None of the choices are correct
+
+	
+

@@ -1,0 +1,24 @@
+1.The _______ is the physical path over which a message travels.
+a.Protocol
+b.Medium
+c.Signal
+d.All the above
+
+2.The information to be communicated in a data communications system is the _______.
+a.Medium
+b.Protocol
+c.Message
+d.Transmission
+
+3.Frequency of failure and network recovery time after a failure are measures of the _______ of a network.
+a.Performance
+b.Reliability
+c.Security
+d.Feasibility
+
+4.An unauthorized user is a network _______ issue.
+a.Performance
+b.Reliability
+c.Security
+d.All the above
+
